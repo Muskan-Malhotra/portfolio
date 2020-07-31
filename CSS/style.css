@@ -1,0 +1,92 @@
+body 
+{
+  background: rgba(199, 133, 136, 0.199);
+  margin: 0;
+  padding: 0;
+}
+
+#Header a:hover
+{
+  color: #FFF;
+}
+
+#bg-img 
+{
+  background: url('/IMG/feather.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  min-height: 500px;
+}
+
+#About 
+{
+ margin-top: -200px;
+}
+
+#About .fa
+{
+  color: #FFF;
+}
+
+#About span 
+{
+ padding: 10px 20px 10px 20px;
+}
+
+#About hr 
+{
+  border-width: 2px;
+  margin-top: 06px;
+}
+
+#Skills span
+{
+  padding: 10px 20px 10px 20px;
+}
+
+#Skills hr
+{
+  border-width: 2px;
+  margin-top: 06px;
+}
+
+#Experience span
+{
+  padding: 10px 20px 10px 20px;
+}
+
+#Experience hr
+{
+  border-width: 2px;
+  margin-top: 06px; 
+}
+
+#internshala-card
+{
+ height: 470px;
+}
+
+#microsoft-card
+{
+  height: 400px;
+}
+
+#Experience .card
+{
+  border-top: 06px solid #abb42c;
+}
+
+#Contact span
+{
+  padding: 10px 20px 10px 20px;
+}
+
+#Contact hr
+{
+  border-width: 2px;
+  margin-top: 06px; 
+}
+
+.bg-secondary {
+  background-color: #abb42c!important;
+}
